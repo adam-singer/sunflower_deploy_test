@@ -1,0 +1,5 @@
+name: sunflower
+description: "drfibonacci's Sunflower Spectacular"
+dependencies:
+  browser: any
+  hop: ">=0.20.0 <0.21.0"
