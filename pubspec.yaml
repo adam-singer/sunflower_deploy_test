@@ -2,4 +2,7 @@ name: sunflower
 description: "drfibonacci's Sunflower Spectacular"
 dependencies:
   browser: any
-  hop: ">=0.20.0 <0.21.0"
+  stream: 0.6.2
+  # hop: ">=0.20.0 <0.21.0"
+  hop:
+    path: /Users/adam/dart/hop.dart
